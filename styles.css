@@ -31,7 +31,6 @@ a {
 }
 
 /* global classes styling */
-
 .container {
   max-width: 1000px;
   width: 100%;
@@ -104,7 +103,6 @@ header {
 nav {
   font-weight: 400;
 }
-
 
 @media (max-width: 650px) {
   #hero {
